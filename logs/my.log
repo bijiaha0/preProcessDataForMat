@@ -1,0 +1,285 @@
+2018-09-29 17:52:01,463 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,463 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF816A|125893(String)
+2018-09-29 17:52:01,463 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,463 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,463 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF81|347344(String)
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF821|55565(String)
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF823|55552(String)
+2018-09-29 17:52:01,464 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF826|664701(String)
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF827|152485(String)
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF828|283489(String)
+2018-09-29 17:52:01,465 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF829|374899(String)
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF830|91603(String)
+2018-09-29 17:52:01,466 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF831|128611(String)
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF833|401898(String)
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF835|90485(String)
+2018-09-29 17:52:01,467 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF836|162962(String)
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF837|116412(String)
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF839|55778(String)
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,468 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF83|55769(String)
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF841|284371(String)
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF843|283933(String)
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF844|284391(String)
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,469 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF845|91664(String)
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF846|162993(String)
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF84|7637(String)
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF853|54753(String)
+2018-09-29 17:52:01,470 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF85|7639(String)
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF860|344787(String)
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF862|643641(String)
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF876P|642280(String)
+2018-09-29 17:52:01,471 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF878|729747(String)
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF879|345462(String)
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF880|400713(String)
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF883|169834(String)
+2018-09-29 17:52:01,472 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF8|7554(String)
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF90|7643(String)
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF91|7644(String)
+2018-09-29 17:52:01,473 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF92|168374(String)
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF93|81931(String)
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF98|148198(String)
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNF99|7652(String)
+2018-09-29 17:52:01,474 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNFX1|57169(String)
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNHIT1|10467(String)
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNHIT2|741(String)
+2018-09-29 17:52:01,475 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNHIT3|9326(String)
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNHIT6|54680(String)
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNRD1|30834(String)
+2018-09-29 17:52:01,476 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNRF1|84937(String)
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNRF2|223082(String)
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNRF3|84133(String)
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZNRF4|148066(String)
+2018-09-29 17:52:01,477 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZP1|22917(String)
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZP2|7783(String)
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZP3|7784(String)
+2018-09-29 17:52:01,478 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZP4|57829(String)
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZPBP2|124626(String)
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZPBP|11055(String)
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,479 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZPLD1|131368(String)
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZRANB1|54764(String)
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZRANB2|9406(String)
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZRANB3|84083(String)
+2018-09-29 17:52:01,480 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZRSR2|8233(String)
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN10|84891(String)
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN12P1|221584(String)
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,481 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN12|9753(String)
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN16|80345(String)
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN18|65982(String)
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN1|284312(String)
+2018-09-29 17:52:01,482 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN20|7579(String)
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN21|7589(String)
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN22|342945(String)
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN23|222696(String)
+2018-09-29 17:52:01,483 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN29|146050(String)
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN2|54993(String)
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN4|201516(String)
+2018-09-29 17:52:01,484 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN5A|79149(String)
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSCAN5B|342933(String)
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM1|90204(String)
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM2|151112(String)
+2018-09-29 17:52:01,485 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM3|140831(String)
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM4|65249(String)
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM5|57643(String)
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,486 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM6|57688(String)
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZSWIM7|125150(String)
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZUFSP|221302(String)
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZW10|9183(String)
+2018-09-29 17:52:01,487 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZWILCH|55055(String)
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZWINT|11130(String)
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZXDA|7789(String)
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,488 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZXDB|158586(String)
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZXDC|79364(String)
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZYG11A|440590(String)
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZYG11B|79699(String)
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,489 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZYX|7791(String)
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZZEF1|23140(String)
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: ZZZ3|26009(String)
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: psiTPTE22|387590(String)
+2018-09-29 17:52:01,490 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1
+2018-09-29 17:52:01,491 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==>  Preparing: INSERT INTO e_gene_volcano(geneName) VALUES (?) ; 
+2018-09-29 17:52:01,491 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - ==> Parameters: tAKR|389932(String)
+2018-09-29 17:52:01,491 DEBUG [cn.mldn.vo.mapping.EGeneNS.doCreate] - <==    Updates: 1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration   
+    PUBLIC "-//mybatis.org//DTD Config 3.0//EN"   
+    "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 为所有的VO类定义别名， 这样就可以方便不同的配置文件中针对于VO的访问 -->
+	<typeAliases>
+		<!-- 以后使用别名“News”，代替了“cn.mldn.vo.News” -->
+		<typeAlias type="cn.mldn.vo.AccC" alias="AccC"/>
+		<typeAlias type="cn.mldn.vo.EGene" alias="EGene"/>
+	</typeAliases>
+	<environments default="development">		<!-- 配置数据源的相关信息 -->
+		<environment id="development">
+			<transactionManager type="jdbc" />	<!-- 使用JDBC方式管理 -->
+			<dataSource type="POOLED">			<!-- 设置数据源类型，此时为POOLED -->
+				<property name="driver" value="org.gjt.mm.mysql.Driver" />
+				<property name="url" value="jdbc:mysql://localhost:3306/bjh" />
+				<property name="username" value="root" />
+				<property name="password" value="sdjdww1" />
+			</dataSource>
+		</environment>
+	</environments> 
+	<!-- 所有的映射文件的配置信息都要求在此处进行定义 -->
+	<mappers>									<!-- 映射文件信息 -->
+		<mapper resource="cn/mldn/vo/mapping/AccC.xml" />
+		<mapper resource="cn/mldn/vo/mapping/EGene.xml" />
+	</mappers>
+</configuration>
